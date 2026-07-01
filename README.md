@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Deeksha-coder-debug/Deeksha-coder-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
+
 ### Hi there! I'm Sai Deeksha Talabaktula 👋<br>**GATE 2026 Qualified (DA) | GenAI & ML Engineer | MCA @ IIIT Bhopal**<br><br>Welcome to my GitHub! I am a Machine Learning Engineer with experience in production deployments and a strong mathematical foundation in probability, statistics, and linear algebra. <br><br> 🚀 About Me :<br><br> 🔭 **I’m currently working on:** Building RAG systems, multi-agent pipelines, and AI-powered tools.<br> 👯 **I’m looking to collaborate on:** Open-source GenAI applications and full-stack ML integrations.<br> 🤝 **I’m looking for help with:** Advanced system design for scaling AI microservices.<br> 🌱 **I’m currently learning:** Advanced techniques in LangChain, Vector Databases, and prompt engineering.<br> 💬 **Ask me about:** Python, FastAPI, Docker containerization, hybrid deep learning architectures (like CNN-BiLSTM), or my approach to solving 300+ DSA problems.<br> ⚡ **Fun fact:** I was the University Topper across all degree courses at Vikram Deb University, and I recently used a Genetic Algorithm to reduce hyperparameter search costs by 94.4% in a stock prediction model!<br><br>---<br> 🛠️ Tech Stack:<br>**AI/ML:** Scikit-Learn, TensorFlow, Keras, LangChain, RAG<br>**Backend:** Python, FastAPI, Django, REST APIs, Microservices<br>**Tools & Deployment:** Git, Docker, Streamlit, Render
 
 
